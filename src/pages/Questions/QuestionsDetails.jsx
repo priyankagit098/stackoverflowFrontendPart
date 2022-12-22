@@ -27,7 +27,7 @@ const navigate= useNavigate()
 const dispatch= useDispatch()
 const location = useLocation()
 
-const url = "https://stackoverflow-clone-project-priyanka.onrender.com"
+const url = "https://stackoverflow-clone-priyanka.netlify.app"
 
 
 

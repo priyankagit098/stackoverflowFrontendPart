@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 
-const API = axios.create({ baseURL: "https://stackoverflow-clone-project-priyanka.onrender.com"})
+const API = axios.create({ baseURL: "https://stackoverflow-clone-project-priya.onrender.com"})
 
 API.interceptors.request.use((req) => {
 // better security purpose to increase security
